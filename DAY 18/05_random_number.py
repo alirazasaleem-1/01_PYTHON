@@ -1,0 +1,4 @@
+# Mini Task : Generate random number between 1 and 100 and print it 
+import random
+
+print(random.randint(1,100))

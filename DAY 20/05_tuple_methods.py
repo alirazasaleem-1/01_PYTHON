@@ -1,0 +1,5 @@
+a = ("ali", "Junaid", 3, False, 3.44, 3)
+no = a.count(3)
+print(no)
+i = a.index("Junaid")
+print(i)

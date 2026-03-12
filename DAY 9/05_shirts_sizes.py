@@ -1,0 +1,6 @@
+colors = ["Red", "Blue"]
+sizes = ["S", "M", "L"]
+
+for color in colors:
+    for size in sizes:
+        print(f"{color} - {size}")
