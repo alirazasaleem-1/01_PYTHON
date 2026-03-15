@@ -12,7 +12,7 @@ print(files)
 os.mkdir("Test Folder") 
 
 # Removing a folder
-os.rmdir("Test Fodler") 
+os.rmdir("Test Folder") 
 
 # change directory
 os.chdir(r"D:\01_PYTHON\DAY 39")
