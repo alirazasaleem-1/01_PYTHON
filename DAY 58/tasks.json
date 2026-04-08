@@ -3,5 +3,20 @@
         "Task": "Coding",
         "Reminder": "5 PM",
         "Date": "2026-04-05"
+    },
+    {
+        "Task": "Pushups",
+        "Reminder": "3 PM",
+        "Date": "2026-04-07"
+    },
+    {
+        "Task": "Book Reading",
+        "Reminder": "2 PM",
+        "Date": "2026-04-07"
+    },
+    {
+        "Task": "Prepare Assignment",
+        "Reminder": "1 PM",
+        "Date": "2026-04-07"
     }
 ]
